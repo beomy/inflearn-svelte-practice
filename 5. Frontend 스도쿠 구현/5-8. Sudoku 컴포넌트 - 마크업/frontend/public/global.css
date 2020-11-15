@@ -1,0 +1,10 @@
+a {
+  text-decoration: none;
+}
+
+button, select {
+  background: none;
+  border: 1px solid #333;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
